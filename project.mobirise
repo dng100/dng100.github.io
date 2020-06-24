@@ -286,7 +286,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Daniel Nölting | Diseñador WEB freelance · Analista WEB",
+        "title": "Diseñador WEB freelance - WordPress",
         "meta_descr": "20 años creando y optimizando páginas webs, que ayudan a emprendedores, profesionales y empresarios a alcanzar sus objetivos ✅.",
         "header_custom": "<meta name=\"robots\" content=\"index, follow\">\n<meta name=\"author\" content=\"Daniel Nölting\">\n<script type='application/ld+json'> {\n  \"@context\": \"http://www.schema.org\",\n  \"@type\": \"person\",\n  \"name\": \"Daniel Nölting\",\n  \"image\": [\"https://danielnolting.com/assets/images/daniel-nolting.jpg\"],\n  \"jobTitle\": \"Soy Freelance experto en diseño WEB y Analítica\",\n  \"url\": \"https://danielnolting.com\"\n} </script>",
         "footer_custom": "",
@@ -4007,7 +4007,7 @@
     },
     "analitica.html": {
       "settings": {
-        "title": "Daniel Nölting | Analista WEB ¿Cómo mejorar tu web?",
+        "title": "Analista WEB  ¿Cómo mejorar tu web?",
         "order": 2,
         "meta_descr": "Mejoro tu página web detectando problemas, oportunidades y puntos de mejora, ¿Quieres convertir a usuarios en clientes y dejar de perder ventas?  te ayudo ✅",
         "header_custom": "<meta name=\"robots\" content=\"index, follow\">\n<meta name=\"author\" content=\"Daniel Nölting\">\n<script type='application/ld+json'> \n{\n  \"@context\": \"http://www.schema.org\",\n  \"@type\": \"person\",\n  \"name\": \"Daniel Nölting\",\n  \"image\": [\"https://danielnolting.com/assets/images/daniel-nolting.jpg\"],\n  \"jobTitle\": \"Soy analista freelance experto en analítca web y experiencia de usuario\",\n  \"url\": \"https://danielnolting.com\"\n}\n </script>",
@@ -5382,7 +5382,7 @@
     },
     "emprendedores.html": {
       "settings": {
-        "title": "Diseño WEB  para Emprendedores.",
+        "title": "Diseño WEB  para Emprendedores",
         "order": 3,
         "meta_descr": "¿Necesitas una página web que resalte tus productos o servicios, sin que se te dispare el presupuesto? te explico como puedo ayudarte ✅.",
         "header_custom": "<meta name=\"robots\" content=\"index, follow\">\n<meta name=\"author\" content=\"Daniel Nölting\">\n<script type='application/ld+json'> \n{\n  \"@context\": \"http://www.schema.org\",\n  \"@type\": \"person\",\n  \"name\": \"Daniel Nölting\",\n  \"image\": [\"https://danielnolting.com/assets/images/daniel-nolting.jpg\"],\n  \"jobTitle\": \"Soy diseñador web ayudo a emprendedores a ganarse mejor la vida con páginas webs que ofrece resultados\",\n  \"url\": \"https://danielnolting.com\"\n} \n</script>",
@@ -6196,7 +6196,7 @@
     },
     "daniel-nolting.html": {
       "settings": {
-        "title": "Daniel Nölting | Diseño WEB - Analítica WEB",
+        "title": "Daniel Nölting - diseñador de págnas web y analista.",
         "order": 5,
         "meta_descr": "",
         "header_custom": "<meta name=\"robots\" content=\"index, follow\">\n<meta name=\"author\" content=\"Daniel Nölting\">\n<script type='application/ld+json'> \n{\n  \"@context\": \"http://www.schema.org\",\n  \"@type\": \"person\",\n  \"name\": \"Daniel Nölting\",\n  \"image\": [\"https://danielnolting.com/assets/images/daniel-nolting.jpg\"],\n  \"jobTitle\": \"Diseñador WEB Freelance experto en comunicación y Analítica web\",\n  \"url\": \"https://danielnolting.com\"\n}\n </script>",
