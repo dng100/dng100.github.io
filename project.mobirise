@@ -6196,7 +6196,7 @@
     },
     "daniel-nolting.html": {
       "settings": {
-        "title": "Daniel Nölting - diseñador de págnas web y analista.",
+        "title": "Daniel Nölting",
         "order": 5,
         "meta_descr": "",
         "header_custom": "<meta name=\"robots\" content=\"index, follow\">\n<meta name=\"author\" content=\"Daniel Nölting\">\n<script type='application/ld+json'> \n{\n  \"@context\": \"http://www.schema.org\",\n  \"@type\": \"person\",\n  \"name\": \"Daniel Nölting\",\n  \"image\": [\"https://danielnolting.com/assets/images/daniel-nolting.jpg\"],\n  \"jobTitle\": \"Diseñador WEB Freelance experto en comunicación y Analítica web\",\n  \"url\": \"https://danielnolting.com\"\n}\n </script>",
